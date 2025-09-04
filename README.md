@@ -1,6 +1,13 @@
-This is a simple python program that acts like a simple to do list.
+# To-Do-List - Python
+### (Created 8/12/2025)
+---
+## Description
+This is a simple to do list I made.
+- Pygame (Future)
+- Tkinter (Future)
 
-CREATED (8/12/2025)
+## Instructions
+1. Open the file
 
-** Patch Notes ** (8/12/2025)
+## PATCH NOTES (9/3/2025)
 - N/A
